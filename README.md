@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pintu Kumar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h1 align="center">Hi 👋, I'm Prabhat Kumar</h1>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatansh&label=Profile%20views&color=0e75b6&style=flat" alt="akshatansh" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React.js**
 
-- 📫 How to reach me **akshatansh02@gmail.com**
+- 📫 How to reach me **Prabhat7254@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
